@@ -1,0 +1,4 @@
+This figshare collection contains self-acquired fluorescence microscopy images used in our ZIDR study for cross-instrument validation and real-image evaluation. The data were collected on three commercial microscope platforms: **Leica Stellaris 5**, **Sunny CSIM130**, and **Nikon AX**. The collection includes HeLa-cell fluorescence images, mouse tissue fluorescence images, and multicolor BPAE cell images. These data were used in the figures reported in our paper and are provided to support benchmarking, qualitative comparison, and reproducibility of the proposed method.
+
+
+All in-house microscopy data used in this study are publicly available in our Figshare repository at https://doi.org/10.6084/m9.figshare.31440160.
